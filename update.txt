@@ -1,0 +1,12 @@
+1. size of logo image placed at top of the page.
+2. size textbox and search button for input location and near.
+3. "Show Only:" text style
+4. bold style of labels dangled with check buttons after "Show Only"
+5. the font size and the padding value of all search bar labels
+6. Filters show/hide button in stead of Filters div
+	to handle click event
+7. background color of search filters panel
+8. each filter list styles (border, margin, padding, search input text, all checkbuttons ...)
+9. Apply and Reset buttons
+12. icon switching for Filters button
+13. show/hide filters section

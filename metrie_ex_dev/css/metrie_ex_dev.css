@@ -1,0 +1,133 @@
+/* 
+	please start all rules with .page-template-_search2 
+	For example, see the below rule:
+*/
+.page-template-_search2 .top-nav-search-button{
+	float: left !important;
+}
+
+.top-nav-search-field+.top-nav-search-field {
+    margin-left: 8px !important;
+}
+
+.top-nav-search-field{
+    float: left;
+    border: 1px solid #CCC;
+    border-radius: 2px;
+    padding: 5px 10px 7px !important;
+    font-weight: bold;
+    color: #000;
+    margin-left: 30px;
+    height: 37px;
+    box-sizing: border-box;
+    position: relative;
+    margin-left: 0px !important;
+}
+
+#s, #s2, #loc {
+    margin: 0;
+    border: none;
+    background: transparent;
+    outline: none;
+    padding: 4px 0 0 6px;
+    width: 150px !important;
+    font-weight: 100;
+}	
+
+.location {
+	font-size: 20px;
+}
+
+.checkbox-custom, .checkbox-custom-label {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 5px;
+    cursor: pointer;
+    font-weight: 300 !important;
+}
+
+#location {
+    float: right;
+    margin-top: 17px;
+    margin-right: 100px;
+    font-size: 13px !important;
+    width: 25%;
+}
+
+.search-bar {
+    font-size: 13px !important;
+}
+
+.search-bar--show{
+	padding-top: 4px;
+}
+
+#search-filters h4 {
+    font-size: 18px !important;
+    color: #7F7C72;
+    font-family: "Source Sans Pro";
+     padding-top: 0px !important; 
+    clear: both;
+    font-weight: 300 !important;
+}
+
+.filter-listbox {
+    border: 1px solid #aaaaaa !important;
+    height: 250px;
+    overflow: auto;
+    padding-left: 13px !important;
+    margin-top: 10px;
+}
+
+#search-filters {
+    background-color: white !important;
+    font-size: 13px;
+    margin-bottom: 30px;
+}
+
+.checkbox-custom:checked + .checkbox-custom-label:before {
+    content: '\eb23';
+    font-family: 'budicon';
+    font-size: 8px !important;
+}
+
+.filter-group hr {
+    margin-top: 0.5em !important;
+    margin-bottom: 7px !important;
+    margin-right: 15px !important;
+    border-color: #aaaaaa !important;
+}
+
+.h4-filter-caption{
+	margin: 1px;
+}
+
+.bi_interface-box-bottom:before, .bi_interface-box-top:before{
+	content: none !important;
+}
+
+.bi_interface-box-bottom:after{
+    font-family: "budicon";
+    font-style: normal;
+    content: '\eac8';
+    color: orange;
+    font-size: 1.4em;
+    vertical-align: middle;
+}
+
+.bi_interface-box-top:after{
+    font-family: "budicon";
+    font-style: normal;
+    content: '\ead2';
+    color: orange;
+    font-size: 1.4em;
+    vertical-align: middle;
+}
+
+.filter-group{
+	vertical-align: top;
+}
+
+.btn-show-filters{
+	font-style: normal !important;
+}

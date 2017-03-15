@@ -1,0 +1,77 @@
+
+
+@font-face {font-family: 'DINNextLTPro-Light';src: url('../webfonts/284DD4_0_0.eot');src: url('../webfonts/284DD4_0_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/284DD4_0_0.woff') format('woff'),url('../webfonts/284DD4_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'DINNextLTPro-Regular';src: url('../webfonts/284DD4_1_0.eot');src: url('../webfonts/284DD4_1_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/284DD4_1_0.woff') format('woff'),url('../webfonts/284DD4_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'DINNextLTPro-Medium';src: url('../webfonts/284DD4_2_0.eot');src: url('../webfonts/284DD4_2_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/284DD4_2_0.woff') format('woff'),url('../webfonts/284DD4_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'AireBoldPro';src: url('../webfonts/284DD4_3_0.eot');src: url('../webfonts/284DD4_3_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/284DD4_3_0.woff') format('woff'),url('../webfonts/284DD4_3_0.ttf') format('truetype');}
+
+
+
+
+*{
+	font-weight: 300;
+}
+
+.DINNextLTPro-Light {
+	font-family: DINNextLTPro-Light;
+	font-weight: normal;
+	font-style: normal;
+}
+."Source Sans Pro" {
+	font-family: "Source Sans Pro";
+	font-weight: normal;
+	font-style: normal;
+}
+.DINNextLTPro-Medium {
+	font-family: DINNextLTPro-Medium;
+	font-weight: normal;
+	font-style: normal;
+}
+.AireBoldPro {
+	font-family: AireBoldPro;
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+
+
+
+.fontxxsml{
+	font-size: 11px;
+}
+
+.fontxsml{
+	font-size: 12px;
+}
+.fontsml{
+	font-size: 13px;
+}
+
+.fontmed{
+	font-size: 15px;
+}
+
+
+.fontlg{
+	font-size: 18px;
+}
+
+
+.fontxlg{
+	font-size: 22px;
+}
+
+
+/*
+ strong{
+		font-family: DINNextLTPro-Medium;
+}
+*/
